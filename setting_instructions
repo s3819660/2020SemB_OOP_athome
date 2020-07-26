@@ -1,0 +1,1 @@
+Intellij IDEA -> Run -> Edit Confifguration -> VM Options: --module-path ${PATH_TO_FX} --add-modules  javafx.base,javafx.controls,javafx.fxml,javafx.graphics
